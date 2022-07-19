@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T18:54:27.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-y5xodT3ycadgF5dGWsX" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T18:59:08.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KJCdQkaWMI2wYUWufrs7" version="20.1.1" type="github">
   <diagram id="PVZnReJb8n95HXbe6FDD" name="Page-1">
     <mxGraphModel dx="865" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -288,8 +288,36 @@
         <mxCell id="Zx9jNWDYJmhsIeQJABpq-107" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1713" y="1000" width="66" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-109" target="Zx9jNWDYJmhsIeQJABpq-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Zx9jNWDYJmhsIeQJABpq-109" value="Current Checkings Account Balance: $0.00" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1010" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-111" target="Zx9jNWDYJmhsIeQJABpq-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-111" value="Amount you want to withdraw &lt;br&gt;from Checkings Account" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1080" width="200" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-113" target="Zx9jNWDYJmhsIeQJABpq-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1570" y="1205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-113" value="X" style="shape=rectangle;perimeter=rectanglePerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1545" y="1150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-118" target="Zx9jNWDYJmhsIeQJABpq-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1690" y="1227.5" />
+              <mxPoint x="1690" y="1027.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-118" value="Balance Cannot be Negative" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1210" width="200" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
