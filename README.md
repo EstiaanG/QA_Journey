@@ -1,16 +1,12 @@
-# QA_Journey
-Documenting how I go through the process of testing other Github repos and developing my skills
+# ATM-Machine
+This Project is to make an Automated Teller Machine with user's Account Number,Password,and bank account.Using this data,users can withdraw, deposit, and view their account balance.
 
-Although this might not contain code at first it will be a document-style repo of how I go through the process of testing different Github projects. I will be looking for the most basic project but one that contains the most aspects to broaden my own experience with software testing.
-
-I will try to slowly cover the following different types of testing:
-- Unit testing
-- Security testing
-- Performance testing
-- Usability testing
-- Black box testing
-- White box testing
-
-There are a great deal more types of testing but some are difficult or impossible to do without being part of the development. Some projects just might not incorporate aspects that make some other types of testing possible, for instance, compatibility testing, acceptance testing, and many others.
-
-I expect these projects to have a great number of bugs but that will just make the learning process more rewarding
+To run the project\
+1.Download all the code files (total 3)\
+2.Store them in a single folder\
+3.Either use your Java IDE e.g. Eclipse ,InteliJ or NetBeans\
+4.Or in Windows open command prompt and go to project Directory\
+5. run command : javac ATM.java\
+6. After completion your folder will contain 3 .class files\
+7. In command prompt run command: java ATM\
+8. Project will start running
