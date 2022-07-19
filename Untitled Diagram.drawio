@@ -1,11 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T18:08:24.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="39SD8oy402-Rdagnac9M" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T18:28:48.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6xHOVEI4BgXMuWCNk5lP" version="20.1.1" type="github">
   <diagram id="PVZnReJb8n95HXbe6FDD" name="Page-1">
     <mxGraphModel dx="903" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Zx9jNWDYJmhsIeQJABpq-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-1" target="Zx9jNWDYJmhsIeQJABpq-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1306" y="140" />
+              <mxPoint x="1162" y="140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Zx9jNWDYJmhsIeQJABpq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-1" target="Zx9jNWDYJmhsIeQJABpq-5">
           <mxGeometry relative="1" as="geometry" />
@@ -13,68 +18,104 @@
         <mxCell id="Zx9jNWDYJmhsIeQJABpq-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1272.5" y="80" width="66" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-2" target="Zx9jNWDYJmhsIeQJABpq-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Zx9jNWDYJmhsIeQJABpq-2" value="&quot;Output 1: Login&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1147.5" y="160" width="125" height="30" as="geometry" />
+          <mxGeometry x="1100" y="160" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zx9jNWDYJmhsIeQJABpq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-5" target="Zx9jNWDYJmhsIeQJABpq-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zx9jNWDYJmhsIeQJABpq-5" value="&quot;Output 2: Create Account&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-5" value="Output 2: Create Account" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1320.5" y="160" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zx9jNWDYJmhsIeQJABpq-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-9" target="Zx9jNWDYJmhsIeQJABpq-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zx9jNWDYJmhsIeQJABpq-9" value="Input: 2&amp;nbsp;" style="shape=rectangle;perimeter=retanglePerimeter;whiteSpace=wrap;html=1;fixedSize=1;sketch=0;rounded=0;shadow=0;direction=east;" vertex="1" parent="1">
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-9" value="2" style="shape=rectangle;perimeter=retanglePerimeter;whiteSpace=wrap;html=1;fixedSize=1;sketch=0;rounded=0;shadow=0;direction=east;" vertex="1" parent="1">
           <mxGeometry x="1323" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zx9jNWDYJmhsIeQJABpq-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-13" target="Zx9jNWDYJmhsIeQJABpq-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zx9jNWDYJmhsIeQJABpq-13" value="Output: &quot;Enter your customer number&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-13" value="Enter your customer number" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1313" y="260" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Zx9jNWDYJmhsIeQJABpq-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-15" target="Zx9jNWDYJmhsIeQJABpq-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zx9jNWDYJmhsIeQJABpq-15" value="Input: Any number &lt;br&gt;will do" style="shape=rectangle;perimeter=rectanglePerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1323" y="310" width="120" height="30" as="geometry" />
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-15" value="Any number &lt;br&gt;will do" style="shape=rectangle;perimeter=rectanglePerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1323.5" y="320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zx9jNWDYJmhsIeQJABpq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-22" target="Zx9jNWDYJmhsIeQJABpq-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zx9jNWDYJmhsIeQJABpq-22" value="Input of data will create customer number" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1323" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1323.5" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zx9jNWDYJmhsIeQJABpq-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-25" target="Zx9jNWDYJmhsIeQJABpq-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zx9jNWDYJmhsIeQJABpq-25" value="Output: &quot;Enter PIN &lt;br&gt;to be registered&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1312.5" y="444" width="140" height="35" as="geometry" />
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-25" value="Enter PIN &lt;br&gt;to be registered" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1313" y="454" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Zx9jNWDYJmhsIeQJABpq-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-27" target="Zx9jNWDYJmhsIeQJABpq-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zx9jNWDYJmhsIeQJABpq-27" value="Input of data will create customer pin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1323" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="1323.5" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zx9jNWDYJmhsIeQJABpq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1382.5" y="570" as="targetPoint" />
+            <mxPoint x="1383" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zx9jNWDYJmhsIeQJABpq-29" value="Input: Any number &lt;br&gt;will do" style="shape=rectangle;perimeter=rectanglePerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1323" y="510" width="120" height="30" as="geometry" />
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-29" value="Any number &lt;br&gt;will do" style="shape=rectangle;perimeter=rectanglePerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1323.5" y="520" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zx9jNWDYJmhsIeQJABpq-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-36" target="Zx9jNWDYJmhsIeQJABpq-1">
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-36" target="Zx9jNWDYJmhsIeQJABpq-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1480" y="100" />
+              <mxPoint x="1260" y="700" />
+              <mxPoint x="1260" y="175" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zx9jNWDYJmhsIeQJABpq-36" value="Output: Your new account has been successfuly registered!" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1312.5" y="670" width="240" height="60" as="geometry" />
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-36" value="Your new account has been &lt;br&gt;successfully registered!" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1313" y="680" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-39" target="Zx9jNWDYJmhsIeQJABpq-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1162.5" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-39" value="Account has to be created" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1102.5" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-44" target="Zx9jNWDYJmhsIeQJABpq-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-44" value="Enter your customer number" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1092.5" y="310" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-47" value="Output box" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="80" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-48" value="Input box" style="shape=rectangle;perimeter=rectanglePerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="972.5" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-49" value="Processing/comment box" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="65" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zx9jNWDYJmhsIeQJABpq-50" target="Zx9jNWDYJmhsIeQJABpq-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-50" value="Previously created Account number" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1102.5" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zx9jNWDYJmhsIeQJABpq-52" value="Enter your PIN &lt;br&gt;number" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="459" width="125" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
